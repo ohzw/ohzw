@@ -1,5 +1,5 @@
 ### Hi there 👋
-![](https://github-readme-stats.vercel.app/api?username=ohzw&count_private=true&show_icons=true&bg_color=10,085078,85D8CE&title_color=85D8CE&text_color=85D8CE&icon_color=85D8CE)
+<!-- ![](https://github-readme-stats.vercel.app/api?username=ohzw&count_private=true&show_icons=true&bg_color=10,085078,85D8CE&title_color=85D8CE&text_color=85D8CE&icon_color=85D8CE) -->
 
 <!--
 **ohzw/ohzw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
